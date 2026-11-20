@@ -6,7 +6,7 @@ A quick drawing-and-guessing game for coworkers on a video call, or friends and 
 
 ## Play it
 
-[fill in your github.io link]
+[https://github.com/dkim-ux/Pictionary.git]
 
 You need one phone or computer with the game open, and 2 to 8 players.
 
