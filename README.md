@@ -1,12 +1,10 @@
 # Random Pictionary
 
-![Three colorful blob characters around an easel: an orange one draws a cat with a marker while a surprised teal one and a puzzled yellow one try to guess.](cover.png)
-
 A quick drawing-and-guessing game for coworkers on a video call, or friends and family sharing one screen.
 
 ## Play it
 
-[https://github.com/dkim-ux/Pictionary.git]
+[github link]
 
 You need one phone or computer with the game open, and 2 to 8 players.
 
